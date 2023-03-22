@@ -1,0 +1,35 @@
+{
+  "name": "mbrest",
+  "version": "1.0.0",
+  "description": "rest api wrapper supports typescript language for motionboard",
+  "main": "index.js",
+  "scripts": {
+    "make": "tsc && webpack",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r22n/mbrest.git"
+  },
+  "keywords": [
+    "motionboard",
+    "rest",
+    "api",
+    "web"
+  ],
+  "author": "r22n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r22n/mbrest/issues"
+  },
+  "homepage": "https://github.com/r22n/mbrest#readme",
+  "devDependencies": {
+    "comma-separated-values": "^3.6.4",
+    "form-data": "^4.0.0",
+    "jest": "^29.5.0",
+    "node-fetch": "^2.6.9",
+    "typescript": "^5.0.2",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  }
+}

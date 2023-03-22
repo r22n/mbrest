@@ -1,0 +1,1 @@
+wget https://cs.wingarc.com/manual/mb/6.3/ja/UUID-7ccbb966-cf69-51ba-1a17-02ff6f518713.html
